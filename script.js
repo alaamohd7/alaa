@@ -1,0 +1,8 @@
+document.getElementById("contact").onsubmit = function ()
+alert("Your inquiry has been submitted.")
+return false
+
+document.getElementsByTagName("tr")[1].onclick = function ()
+alert
+
+document.getElementsByTagName("tr")[2].onclick = function ()
